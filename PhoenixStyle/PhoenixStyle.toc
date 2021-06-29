@@ -1,0 +1,36 @@
+﻿## Interface: 40300
+## Title: Phoenix|cff7fff7fStyle|r   Core
+## Title-ruRU: Phoenix|cff7fff7fStyle|r   Основной
+## Author: Shurshik
+## Version: 1.582
+## Notes: /fen for more info
+## Notes-ruRU: /фен - для открытия настроек
+## URL: http://phoenixstyle.com
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariables: pslocationnames, psbossnames, pssisavedbossinfo,pssisavedfailaftercombat,pssisavedfailsplayern,psfontsset,psaddoninstalledsins,psfchatadd,PS_Settings, psminibutenabl,psoldvern,psraidchats3,psraidoptionsnumers,pssidamageinf_title2,pssidamageinf_indexboss,pssidamageinf_additioninfo,pssidamageinf_damageinfo,pssidamageinf_switchinfo,pssidamageinf_classcolor,pssicombatin_indexboss,pssicombatin_title2,pssicombatin_damageinfo, psrscafterfightrep,pssaaddon_12,ps_saoptions, psbosssmodchosesort, psbossmodelshow, psdeathrepsavemain, psautoinvsave, psfnopromrep,psicccombatsavedreport,pssavedinfomorebutton,pssavedinfocheckexport,pssichose5,pssichatrepdef,pssaveexpradiobutset,pspetstableok,pstrackbadsummons,psmergepets,psversionsaved2,psbossmodnoalphavar
+## SavedVariablesPerCharacter: thisaddononoff, thisaddonwork, secrefmark, pssetmarknew, psversionday, psautoinvraiddiffsave,pstimerafterrelog
+Localization\localization-enEN.lua
+Localization\localization-ruRU.lua
+Localization\localization-deDE.lua
+Localization\localization-frFR.lua
+Localization\localization-esES.lua
+Localization\localization-esMX.lua
+Localization\localization-koKR.lua
+Localization\localization-zhTW.lua
+Localization\localization-zhCN.lua
+Localization\localization-ptBR.lua
+Localization\localization-itIT.lua
+PhoenixStyle.lua
+PhoenixStyle.xml
+Modules\UI-framefunc.lua
+Modules\Timers.lua
+Modules\Damagecount.lua
+Modules\Damageshow.lua
+Modules\Modfile.lua
+Modules\Savedinfo.lua
+Modules\Deathtracker.lua
+Modules\LibStub.lua
+Modules\CallbackHandler-1.0.lua
+Modules\LibDataBroker-1.1.lua
+Modules\PhoenixBroker.lua
